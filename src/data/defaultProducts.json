@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "category": "phones",
+    "price": 45000,
+    "description": "هاتف ذكي بتصميم احترافي",
+    "image": "/src/assets/images/product_iphone_pro_1795550260645.jpg",
+    "keywords": ["ايفون", "أيفون", "آيفون", "ايفون 15", "موبايل", "هاتف"]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy",
+    "category": "phones",
+    "price": 28000,
+    "description": "أداء قوي وشاشة مميزة",
+    "image": "/src/assets/images/product_samsung_galaxy_1795550261933.jpg",
+    "keywords": ["سامسونج", "جالاكسي", "جلاكسي", "موبايل", "هاتف"]
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro",
+    "category": "laptops",
+    "price": 75000,
+    "description": "لابتوب للأعمال والإبداع",
+    "image": "/src/assets/images/product_macbook_pro_1795550262238.jpg",
+    "keywords": ["ماك", "ماك بوك", "ماكبوك", "ابل", "لابتوب", "لاب توب"]
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop",
+    "category": "laptops",
+    "price": 52000,
+    "description": "تجربة ألعاب وأداء متميز",
+    "image": "/src/assets/images/product_gaming_laptop_1795550262471.jpg",
+    "keywords": ["جيمنج", "لابتوب العاب", "لابتوب ألعاب", "لاب توب", "العاب"]
+  },
+  {
+    "id": 5,
+    "name": "Wireless Headphones",
+    "category": "accessories",
+    "price": 2500,
+    "description": "سماعات لاسلكية بجودة صوت",
+    "image": "/src/assets/images/product_wireless_headphones_1795550263346.jpg",
+    "keywords": ["سماعة", "سماعات", "هيدفون", "لاسلكية", "بلوتوث"]
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "category": "accessories",
+    "price": 3500,
+    "description": "ساعة ذكية بتصميم عصري",
+    "image": "/src/assets/images/product_smart_watch_1795550263747.jpg",
+    "keywords": ["ساعة", "ساعة ذكية", "سمارت واتش"]
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "category": "accessories",
+    "price": 1800,
+    "description": "لوحة مفاتيح للألعاب والعمل",
+    "image": "/src/assets/images/product_mechanical_keyboard_1795550262834.jpg",
+    "keywords": ["كيبورد", "لوحة مفاتيح", "ميكانيكال"]
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "category": "accessories",
+    "price": 900,
+    "description": "ماوس لاسلكي مريح",
+    "image": "/src/assets/images/product_wireless_mouse_1795550264076.jpg",
+    "keywords": ["ماوس", "فأرة", "لاسلكي"]
+  },
+  {
+    "id": 9,
+    "name": "Tablet",
+    "category": "accessories",
+    "price": 12000,
+    "description": "تابلت للعمل والدراسة",
+    "image": "/src/assets/images/product_tablet_pro_1795550264206.jpg",
+    "keywords": ["تابلت", "ايباد", "أيباد"]
+  }
+]
